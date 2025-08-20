@@ -1,4 +1,8 @@
 import os
 
-def step10(cmd):
-    os.system(cmd)
+def step10(x, y, cmd):
+    return x
+
+def step10(x):
+    os.system(x)
+
